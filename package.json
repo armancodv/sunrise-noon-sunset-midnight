@@ -1,0 +1,33 @@
+{
+  "name": "sunrise-noon-sunset-midnight",
+  "version": "1.0.0",
+  "description": "It shows sunrise, noon, sunset, and midnight hours of your location based on your location and date, useful for day/night modes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armancodv/sunrise-noon-sunset-midnight.git"
+  },
+  "keywords": [
+    "sunrise",
+    "sunset",
+    "noon",
+    "midnight",
+    "hours",
+    "date",
+    "latitude",
+    "longitude",
+    "night-mode",
+    "day-mode",
+    "light",
+    "daylight"
+  ],
+  "author": "Arman Kolahan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/armancodv/sunrise-noon-sunset-midnight/issues"
+  },
+  "homepage": "https://github.com/armancodv/sunrise-noon-sunset-midnight#readme"
+}
