@@ -1,6 +1,6 @@
 {
   "name": "sunrise-noon-sunset-midnight",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "It shows sunrise, noon, sunset, and midnight hours of your location based on your location and date, useful for day/night modes.",
   "main": "index.js",
   "scripts": {
